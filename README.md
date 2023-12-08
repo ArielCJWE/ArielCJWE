@@ -1,6 +1,8 @@
-# Hi there 👋
+# Hello Everyone!👋
 ## My name is Ariel!
 ![avataaars](https://github.com/ArielCJWE/ArielCJWE/assets/145630253/f39262f0-4057-4600-8458-d54caded554d)
+
+My netlify status bage would be [![Netlify Status](https://api.netlify.com/api/v1/badges/58fc218d-2787-4807-ae21-42dfd1b61bae/deploy-status)](https://app.netlify.com/sites/about-me-arielcjwe/deploys) Please take your time to browse and enjor!
 
 
 - 🔭 I’m currently working on **~finishing watching the hunger games~** completing all my assignments due for Sunday!
