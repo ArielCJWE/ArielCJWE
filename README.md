@@ -16,9 +16,13 @@ The Nav bar is a bit bigger than most as it is catered towards the visually impa
 
 ### Works Cited
 How to create a Hamburger menu - https://github.com/codeSTACKr/hamburger-animation#readme - Published on 11th September, 2019. Published by codeSTACKr
+
 Video on Hamburger menu - https://www.youtube.com/watch?v=QQlxvj_GKss - Published on 21st November, 2021. Published By Deltaty Code
+
 How To Create Image Overlay Hover Effect Using Only HTML & CSS - https://www.youtube.com/watch?v=Himo9n0BaDw - Published on 7th July, 2021. Published by ProWeb
+
 CSS-Image-Hover-Effect - https://github.com/WebDevSimplified/css-image-hover-effect - Published on 17th December, 2021. Published by WebDevSimplified
+
 Opacity with box - https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_image_overlay_opacity - Updated lisence 2023. Published by W3Schools
 
 
